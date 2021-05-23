@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @michaelfelicio
 - 👀 I’m interested in simple solutions for every problem
+- :coffee: I love JavaScript, TypeScript & OOP (C# & Java)
 - 🌱 I’m currently learning reactive programming
