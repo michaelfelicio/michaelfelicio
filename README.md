@@ -4,7 +4,7 @@
 
 <p align="center">
  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-gray?logo=node.js&color=gray">
- <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-gray?logo=typescript&color=gray">
+ <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-gray?logo=typescript&color=gray&link=https%3A%2F%2Fgithub.com%2Fmichaelfelicio%3Ftab%3Drepositories%26q%3D%26type%3D%26language%3Dtypescript%26sort%3D">
  <img alt="Serverless" src="https://img.shields.io/badge/Serverless-gray?logo=serverless&color=gray">
 </p>
 
